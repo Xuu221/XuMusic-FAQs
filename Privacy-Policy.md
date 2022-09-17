@@ -63,7 +63,6 @@ Nếu bạn có bất kỳ câu hỏi, mối quan tâm, hoặc ý kiến gì v�
 Chúng tôi giữ quyền thực hiện các thay đổi trong chính sách này. Tất cả thay đổi sẽ được phản ánh trên trang này.
 
 ## Liên hệ
-
-Liên hệ hỗ trợ: support@xumusic.xyz
-Support Server: [Tại đây](https://discord.gg/UEAgEm8YFq)
-Discord: [Xu#1199](https://discord.com/users/401249844120780810)
+- Liên hệ hỗ trợ: support@xumusic.xyz
+- Support Server: [Tại đây](https://discord.gg/UEAgEm8YFq)
+- Discord: [Xu#1199](https://discord.com/users/401249844120780810)
